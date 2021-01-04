@@ -1,6 +1,6 @@
 
 <p align="center">  
-<img src="https://hostedstatus.page/assets/img/logo/hsp-logo-horizontal-full.png" alt="Hosted Status Page">  
+<img src="https://hostedstatus.page/res/img/logo/hsp-logo-horizontal-full.png" alt="Hosted Status Page">  
 </p>  
   
 # Uptime Bars  
